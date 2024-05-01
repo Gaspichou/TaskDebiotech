@@ -1,5 +1,3 @@
-# Message to Debiotech
-
 Dear Debiotech recruitment team,
 
 Here is my code for the programming exercise that you gave me last week. 
